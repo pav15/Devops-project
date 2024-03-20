@@ -1,5 +1,4 @@
-This is Pavani CHavHIS IS PAVANICHAVA 
-I am a GET at HCLT
+This is Pavani Chava
 I am in Devops Training
 I joined HCL in August, 2022
 I am doing hands on
@@ -9,5 +8,10 @@ Final assessment done
 I am confident with Devops now
 Final presentation done
 Deployed into project
+<<<<<<< HEAD
 this is line 11
 this is line 22
+=======
+this is line a 
+this is line b
+>>>>>>> acd40926c658fd8282f44e77a2bf5b48836d9c0f
